@@ -1,3 +1,4 @@
-# paralellprogrammering
+# parallel programming
 
-Alla assignments från paralellprogrammering i C++.
+All assignments frome the parallel programming course.
+
