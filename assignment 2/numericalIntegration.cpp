@@ -127,7 +127,7 @@ int main(int argc, char *argv[]) {
 
 
         std::cout << "The approximate value of the integral is: " << result << std::endl;
-        std::cout << "With " << num_threads << " threads calculating " << num_trapezoids << " this took " << duration.count() << " seconds." <<std::endl;
+        std::cout << "With " << num_threads << " threads calculating " << num_trapezoids << " trapezoids this took " << duration.count() << " seconds." <<std::endl;
 
     }
 
